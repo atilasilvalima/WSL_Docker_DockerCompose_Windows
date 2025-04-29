@@ -1,0 +1,11 @@
+01 - Install - WSL Ubuntu Windows
+
+01. No terminal execute
+wsl --install
+
+02. Reiniciei o computador
+
+03. Após reiniciar o WSL abre automaticamente, crie um usuário e depois configure a senha desse usuário
+
+04. Abra o terminal e Execute 
+wsl --install -d Ubuntu
