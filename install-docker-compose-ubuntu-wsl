@@ -1,0 +1,10 @@
+03. Install - Docker compose Ubuntu WSL
+
+1. Baixe a versão oficial mais recente do Docker Compose:
+sudo curl -L "https://github.com/docker/compose/releases/latest/download/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+
+2. Dê permissão de execução:
+sudo chmod +x /usr/local/bin/docker-compose
+
+3. Verifique se instalou corretamente:
+docker-compose --version
