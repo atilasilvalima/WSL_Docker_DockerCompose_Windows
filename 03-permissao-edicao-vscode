@@ -1,0 +1,1 @@
+sudo chown -R nome_user:nome_user /home/nome_user/Nome_Pasta
